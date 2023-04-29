@@ -1,0 +1,1 @@
+In this, I made a class that had a linkedlist that has a set of school info for a fictional person and has a function that adds courses and one that removes courses from said person. The main class calls these functions to make 2 people and add some courses and remove 1 from each.

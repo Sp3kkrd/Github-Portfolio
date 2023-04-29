@@ -1,0 +1,1 @@
+In this, I made a hashmap and made some functions that can add, remove, or get key values. I then made a main class that calls those functions and makes 3 keys based on cars.
