@@ -1,0 +1,1 @@
+In this, I used Scanner and Random to make a game that has the player try to guess a random number. Once the number is guessed, it tells you how many turns it took for you to guess it.

@@ -1,0 +1,1 @@
+This package is has mini games that I made in class. The pokemon battle game was the hardest one to make as it was more in depth than the other ones

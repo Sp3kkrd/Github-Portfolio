@@ -1,0 +1,1 @@
+In this, I used Scanner and Random to have the players create a pokemon and input their stats and have the pokemon fight and using some if statements and others, seeing which pokemon would win based on said stats.

@@ -1,0 +1,1 @@
+In this, I used Scanner and Random to make a game that makes the player guess a random color 10 times, then after the 10 rounds, tells the player how many correct guesses they had.
