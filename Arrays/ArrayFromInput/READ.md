@@ -1,0 +1,1 @@
+In this, I used Scanner to have the user enter a name, job, and city. These strings are then entered into an array and printed. I used a public class within the same file to run the functions within.

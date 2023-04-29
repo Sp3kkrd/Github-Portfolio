@@ -1,0 +1,1 @@
+Some of the first foundational things I learned, these are simply making various forms of arrays. I would say the Array from Input was the hardest one.
