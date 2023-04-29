@@ -1,0 +1,1 @@
+Experimenting with sorting types, selection sorting was easily harder than bubble sorting.
